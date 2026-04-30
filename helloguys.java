@@ -7,4 +7,8 @@
  */
 public class helloguys
 {
+    public static void main(String args[])
+    {
+        String strFood = "ice cream";
+    }
 }
