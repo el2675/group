@@ -6,9 +6,9 @@
  * @version (a version number or a date)
  */
 
+
 //import user input
 import java.util.*;
-
 
 public class helloguys
 {
