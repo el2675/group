@@ -5,12 +5,11 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-<<<<<<< HEAD
+
 
 
 //import user input
-=======
->>>>>>> fa91c3ebf6d68878ae37ca4327c4691d3310ad03
+
 import java.util.*;
 public class helloguys
 {
@@ -20,7 +19,6 @@ public class helloguys
         
         
         System.out.println(strFood);
-<<<<<<< HEAD
 
         byte i = 0;
         
@@ -29,15 +27,7 @@ public class helloguys
             i++;
         }
 
-=======
-        
-        byte i = 0;
-        
-        while(i<5)
-        {
-            i++;
-        }
-        System.out.println(i);
->>>>>>> fa91c3ebf6d68878ae37ca4327c4691d3310ad03
+      
+
     }
 }
