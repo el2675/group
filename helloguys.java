@@ -6,7 +6,6 @@
  * @version (a version number or a date)
  */
 import java.util.*;
-
 public class helloguys
 {
     public static void main(String args[])
@@ -15,5 +14,13 @@ public class helloguys
         
         
         System.out.println(strFood);
+        
+        byte i = 0;
+        
+        while(i>5)
+        {
+            i++;
+        }
+        System.out.println(i);
     }
 }
