@@ -5,6 +5,10 @@
  * @author (your name)
  * @version (a version number or a date)
  */
+
+//import user input
+import java.util.Scanner;
+
 public class helloguys
 {
     public static void main(String args[])
@@ -13,5 +17,8 @@ public class helloguys
         
         
         System.out.println(strFood);
+        
+        
+        
     }
 }
