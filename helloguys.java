@@ -17,14 +17,22 @@ public class helloguys
     {
         String strFood = "ice cream";
         
+        //prompt user to enter their favourite food
+        System.out.println("Please enter your favourite food");
         
-        System.out.println(strFood);
+        strFood = new Scanner(System.in).nextLine();
+        
+        
 
         byte i = 0;
         
         while(i<5)
         {
+            System.out.println("Give me " + strFood);
+            
             i++;
+            
+            
         }
 
       
