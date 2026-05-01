@@ -7,7 +7,8 @@
  */
 
 //import user input
-import java.util.Scanner;
+import java.util.*;
+
 
 public class helloguys
 {
